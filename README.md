@@ -1,16 +1,16 @@
+# Satyam Soni
 
+I'm a cybersecurity learner and builder focused on **Cybersecurity**, **Network Security**, and **Coding**.
 
-I'm a **Satyam Soni** based in **Chandigarh**. I enjoy turning ideas into thoughtful, useful things—especially around **Cybersec**, **Network Security**, and **Coding**.
-
-- 🌱 Currently learning: **Security Tools**
-- 🔭 Working on: **My Cybersec skills**
-- 💬 Ask me about: **Coding**
+- 🌱 Currently learning: **Security Tools & Vulnerability Research**
+- 🔭 Working on: **Hands-on cybersecurity projects**
+- 💬 Ask me about: **Python, C/C++, Java, and security fundamentals**
 - 📫 Reach me: **satyamsoni5715@gmail.com**
-- ⚡ Fun fact: **(I use AI ALOT.)**
+- ⚡ Fun fact: **I use AI A LOT.**
 
 ## What I work with
 
-[Python/C/C++/Java]` · `[FastAPI]` · `[Kali Linux]
+`Python` · `C/C++` · `Java` · `FastAPI` · `Kali Linux` · `Git/GitHub`
 
 ## Featured projects
 
@@ -18,9 +18,12 @@ I'm a **Satyam Soni** based in **Chandigarh**. I enjoy turning ideas into though
 | --- | --- | --- |
 | [MiniScanner](https://github.com/sty3m/mini-vuln-scanner) | A lightweight, ethical web-security scanner that checks websites for common misconfigurations and exports clear JSON or HTML reports. | `Python` `Requests` `Colorama` `TLS/SSL` `HTML/CSS` |
 
-## Elsewhere
+## Goals
 
- [LinkedIn](www.linkedin.com/in/satyam-soni-845b8a376) · [X / Twitter](https://x.com/SSoni75781) · [Email](satyamsoni5715@gmail.com)
+- Build practical security tooling
+- Improve web and network security skills
+- Learn vulnerability research and responsible disclosure
+- Document projects and lessons learned
 
 ---
 
