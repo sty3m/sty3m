@@ -12,6 +12,13 @@ I'm a cybersecurity learner and builder focused on **Cybersecurity**, **Network 
 
 `Python` · `C/C++` · `Java` · `FastAPI` · `Kali Linux` · `Git/GitHub`
 
+## Security focus
+
+- Web application security
+- Vulnerability discovery and responsible testing
+- Network security fundamentals
+- Security automation with Python
+
 ## Featured projects
 
 | Project | What it does | Stack |
