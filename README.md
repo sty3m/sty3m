@@ -49,6 +49,20 @@ Keeping project notes focused on what was tested, what was observed, and how the
 - Validate findings before reporting them
 - Pair every vulnerability finding with a practical mitigation
 
+## Tech interests
+
+### Languages
+
+`Python` · `C` · `C++` · `Java`
+
+### Security
+
+`Web Security` · `Network Security` · `Vulnerability Research` · `Security Automation`
+
+### Tools
+
+`Kali Linux` · `Git` · `GitHub` · `FastAPI`
+
 ## Featured projects
 
 | Project | What it does | Stack |
