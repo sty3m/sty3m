@@ -19,6 +19,13 @@ I'm a cybersecurity learner and builder focused on **Cybersecurity**, **Network 
 - Network security fundamentals
 - Security automation with Python
 
+## Learning workflow
+
+1. Learn the underlying security concept
+2. Build or reproduce it in a controlled lab
+3. Test assumptions and document observations
+4. Improve the defensive implementation
+
 ## Featured projects
 
 | Project | What it does | Stack |
