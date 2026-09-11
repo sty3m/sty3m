@@ -42,6 +42,13 @@ Practicing common web vulnerabilities in deliberately vulnerable, isolated appli
 
 Keeping project notes focused on what was tested, what was observed, and how the issue can be mitigated.
 
+## Security principles
+
+- Test only systems you own or are explicitly authorized to assess
+- Prefer reproducible labs for offensive security practice
+- Validate findings before reporting them
+- Pair every vulnerability finding with a practical mitigation
+
 ## Featured projects
 
 | Project | What it does | Stack |
