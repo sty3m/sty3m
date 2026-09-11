@@ -38,6 +38,10 @@ Exploring scanners, automation scripts, and small utilities that make security t
 
 Practicing common web vulnerabilities in deliberately vulnerable, isolated applications and then studying the corresponding defensive controls.
 
+### Documentation
+
+Keeping project notes focused on what was tested, what was observed, and how the issue can be mitigated.
+
 ## Featured projects
 
 | Project | What it does | Stack |
