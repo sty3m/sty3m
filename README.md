@@ -30,6 +30,10 @@ I'm a cybersecurity learner and builder focused on **Cybersecurity**, **Network 
 
 I'm building small, practical security projects to turn theory into repeatable hands-on experience.
 
+### Security tooling
+
+Exploring scanners, automation scripts, and small utilities that make security testing more consistent and easier to understand.
+
 ## Featured projects
 
 | Project | What it does | Stack |
