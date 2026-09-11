@@ -26,6 +26,10 @@ I'm a cybersecurity learner and builder focused on **Cybersecurity**, **Network 
 3. Test assumptions and document observations
 4. Improve the defensive implementation
 
+## Current projects
+
+I'm building small, practical security projects to turn theory into repeatable hands-on experience.
+
 ## Featured projects
 
 | Project | What it does | Stack |
