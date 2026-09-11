@@ -63,6 +63,10 @@ Keeping project notes focused on what was tested, what was observed, and how the
 
 `Kali Linux` · `Git` · `GitHub` · `FastAPI`
 
+## Build philosophy
+
+I prefer projects that are small enough to understand end-to-end and practical enough to teach a real security concept.
+
 ## Featured projects
 
 | Project | What it does | Stack |
