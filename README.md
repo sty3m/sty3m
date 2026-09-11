@@ -34,6 +34,10 @@ I'm building small, practical security projects to turn theory into repeatable h
 
 Exploring scanners, automation scripts, and small utilities that make security testing more consistent and easier to understand.
 
+### Web security labs
+
+Practicing common web vulnerabilities in deliberately vulnerable, isolated applications and then studying the corresponding defensive controls.
+
 ## Featured projects
 
 | Project | What it does | Stack |
