@@ -93,6 +93,7 @@ For each project, I aim to keep the scope clear, make the setup reproducible, an
 - Network traffic analysis
 - Logging and security monitoring
 - Secure coding patterns
+- Threat modeling basics
 
 ---
 
