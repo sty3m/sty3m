@@ -95,6 +95,7 @@ For each project, I aim to keep the scope clear, make the setup reproducible, an
 - Secure coding patterns
 - Threat modeling basics
 - Incident response fundamentals
+- Digital forensics foundations
 
 ---
 
