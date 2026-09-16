@@ -98,6 +98,7 @@ For each project, I aim to keep the scope clear, make the setup reproducible, an
 - Digital forensics foundations
 - Cloud security fundamentals
 - Container security basics
+- Identity and access management
 
 ---
 
