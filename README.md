@@ -25,6 +25,7 @@ I'm a cybersecurity learner and builder focused on **Cybersecurity**, **Network 
 2. Build or reproduce it in a controlled lab
 3. Test assumptions and document observations
 4. Improve the defensive implementation
+5. Write down what changed and why
 
 ## Current projects
 
@@ -79,6 +80,10 @@ I prefer projects that are small enough to understand end-to-end and practical e
 - Improve web and network security skills
 - Learn vulnerability research and responsible disclosure
 - Document projects and lessons learned
+
+## Project standards
+
+For each project, I aim to keep the scope clear, make the setup reproducible, and explain security decisions in the documentation.
 
 ---
 
