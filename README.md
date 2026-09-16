@@ -92,6 +92,7 @@ For each project, I aim to keep the scope clear, make the setup reproducible, an
 - Authentication and session security
 - Network traffic analysis
 - Logging and security monitoring
+- Secure coding patterns
 
 ---
 
