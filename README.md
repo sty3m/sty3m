@@ -85,6 +85,13 @@ I prefer projects that are small enough to understand end-to-end and practical e
 
 For each project, I aim to keep the scope clear, make the setup reproducible, and explain security decisions in the documentation.
 
+## Next areas to explore
+
+- HTTP request and response analysis
+- Secure API design
+- Authentication and session security
+- Network traffic analysis
+
 ---
 
 > *Building, learning, and sharing along the way.*
