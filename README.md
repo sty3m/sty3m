@@ -94,6 +94,7 @@ For each project, I aim to keep the scope clear, make the setup reproducible, an
 - Logging and security monitoring
 - Secure coding patterns
 - Threat modeling basics
+- Incident response fundamentals
 
 ---
 
